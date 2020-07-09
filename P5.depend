@@ -1,0 +1,300 @@
+# depslib dependency file v1.0
+1585269406 source:c:\users\jimhh\onedrive\uw\css-430-hogg-sp20\P5\bio.c
+	"bfs.h"
+	"bio.h"
+	"deb.h"
+
+1585203795 c:\users\jimhh\onedrive\uw\css-430-hogg-sp20\P5\bio.h
+	<stdio.h>
+	"alias.h"
+
+1584631115 c:\users\jimhh\onedrive\uw\css-430-hogg-sp20\P5\alias.h
+	<stdint.h>
+
+1585280692 source:c:\users\jimhh\onedrive\uw\css-430-hogg-sp20\P5\bfs.c
+	"bfs.h"
+	"deb.h"
+
+1585261593 c:\users\jimhh\onedrive\uw\css-430-hogg-sp20\P5\bfs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alias.h"
+	"bio.h"
+	"errors.h"
+
+1585203944 source:c:\users\jimhh\onedrive\uw\css-430-hogg-sp20\P5\main.c
+	<stdio.h>
+	"deb.h"
+	"errors.h"
+	"test.h"
+
+1584974749 c:\users\jimhh\onedrive\uw\css-430-hogg-sp20\P5\fs.h
+	<stdio.h>
+	"alias.h"
+	"errors.h"
+
+1585269640 source:c:\users\jimhh\onedrive\uw\css-430-hogg-sp20\P5\fs.c
+	"bfs.h"
+	"deb.h"
+	"fs.h"
+
+1585118338 c:\users\jimhh\onedrive\uw\css-430-hogg-sp20\P5\errors.h
+	"alias.h"
+
+1585260524 source:c:\users\jimhh\onedrive\uw\css-430-hogg-sp20\P5\errors.c
+	<stdio.h>
+	<stdlib.h>
+	"errors.h"
+
+1585283793 source:c:\users\jimhh\onedrive\uw\css-430-hogg-sp20\P5\deb.c
+	"bfs.h"
+	"deb.h"
+
+1585283584 c:\users\jimhh\onedrive\uw\css-430-hogg-sp20\P5\deb.h
+	<ctype.h>
+	<stdio.h>
+	"alias.h"
+
+1585269759 source:c:\users\jimhh\onedrive\uw\css-430-hogg-sp20\P5\test.c
+	"test.h"
+
+1584938918 c:\users\jimhh\onedrive\uw\css-430-hogg-sp20\P5\test.h
+	<assert.h>
+	<stdlib.h>
+	"alias.h"
+	"bfs.h"
+	"deb.h"
+	"errors.h"
+	"fs.h"
+
+1585269406 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\bfs\bio.c
+	"bfs.h"
+	"bio.h"
+	"deb.h"
+
+1585261593 c:\users\jim\skydrive\uw\css-430-hogg-sp20\bfs\bfs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alias.h"
+	"bio.h"
+	"errors.h"
+
+1584631115 c:\users\jim\skydrive\uw\css-430-hogg-sp20\bfs\alias.h
+	<stdint.h>
+
+1585203795 c:\users\jim\skydrive\uw\css-430-hogg-sp20\bfs\bio.h
+	<stdio.h>
+	"alias.h"
+
+1585118338 c:\users\jim\skydrive\uw\css-430-hogg-sp20\bfs\errors.h
+	"alias.h"
+
+1585283584 c:\users\jim\skydrive\uw\css-430-hogg-sp20\bfs\deb.h
+	<ctype.h>
+	<stdio.h>
+	"alias.h"
+
+1586917962 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\bfs\bfs.c
+	"bfs.h"
+	"deb.h"
+
+1585283793 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\bfs\deb.c
+	"bfs.h"
+	"deb.h"
+
+1585260524 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\bfs\errors.c
+	<stdio.h>
+	<stdlib.h>
+	"errors.h"
+
+1585269640 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\bfs\fs.c
+	"bfs.h"
+	"deb.h"
+	"fs.h"
+
+1584974749 c:\users\jim\skydrive\uw\css-430-hogg-sp20\bfs\fs.h
+	<stdio.h>
+	"alias.h"
+	"errors.h"
+
+1585203944 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\bfs\main.c
+	<stdio.h>
+	"deb.h"
+	"errors.h"
+	"test.h"
+
+1584938918 c:\users\jim\skydrive\uw\css-430-hogg-sp20\bfs\test.h
+	<assert.h>
+	<stdlib.h>
+	"alias.h"
+	"bfs.h"
+	"deb.h"
+	"errors.h"
+	"fs.h"
+
+1586923769 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\bfs\test.c
+	"test.h"
+
+1590079879 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5\bfs.c
+	"bfs.h"
+	"deb.h"
+
+1590079879 c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5\bfs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alias.h"
+	"bio.h"
+	"errors.h"
+
+1589771339 c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5\alias.h
+	<stdint.h>
+
+1585203795 c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5\bio.h
+	<stdio.h>
+	"alias.h"
+
+1590002624 c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5\errors.h
+	"alias.h"
+
+1585283584 c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5\deb.h
+	<ctype.h>
+	<stdio.h>
+	"alias.h"
+
+1585269406 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5\bio.c
+	"bfs.h"
+	"bio.h"
+	"deb.h"
+
+1590079879 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5\deb.c
+	"bfs.h"
+	"deb.h"
+
+1589999778 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5\errors.c
+	<stdio.h>
+	<stdlib.h>
+	"errors.h"
+
+1590004651 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5\fs.c
+	"bfs.h"
+	"deb.h"
+	"fs.h"
+
+1590004641 c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5\fs.h
+	<stdio.h>
+	"alias.h"
+	"errors.h"
+
+1590000346 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5\main.c
+	<stdio.h>
+	"bfs.h"
+	"deb.h"
+	"errors.h"
+	"p5test.h"
+
+1584938918 c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5\test.h
+	<assert.h>
+	<stdlib.h>
+	"alias.h"
+	"bfs.h"
+	"deb.h"
+	"errors.h"
+	"fs.h"
+
+1589996841 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5\test.c
+	"test.h"
+
+1589757302 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5\p5-setup.c
+	"fs.h"
+	"bfs.h"
+
+1589769317 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5\p5-test.c
+	"p5-test.h"
+
+1589769491 c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5\p5-test.h
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	"alias.h"
+
+1589757302 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5\p5setup.c
+	"fs.h"
+	"bfs.h"
+
+1590079961 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5\p5test.c
+	"p5test.h"
+
+1590079961 c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5\p5test.h
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	"alias.h"
+	"fs.h"
+
+1590087145 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5-download\p5\bfs.c
+	"bfs.h"
+
+1590079879 c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5-download\p5\bfs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alias.h"
+	"bio.h"
+	"errors.h"
+
+1589771339 c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5-download\p5\alias.h
+	<stdint.h>
+
+1585203795 c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5-download\p5\bio.h
+	<stdio.h>
+	"alias.h"
+
+1590002624 c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5-download\p5\errors.h
+	"alias.h"
+
+1585283584 c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5-download\p5\deb.h
+	<ctype.h>
+	<stdio.h>
+	"alias.h"
+
+1590087145 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5-download\p5\bio.c
+	"bfs.h"
+	"bio.h"
+
+1590079879 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5-download\p5\deb.c
+	"bfs.h"
+	"deb.h"
+
+1589999778 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5-download\p5\errors.c
+	<stdio.h>
+	<stdlib.h>
+	"errors.h"
+
+1590087350 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5-download\p5\fs.c
+	"bfs.h"
+	"fs.h"
+
+1590004641 c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5-download\p5\fs.h
+	<stdio.h>
+	"alias.h"
+	"errors.h"
+
+1590087141 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5-download\p5\main.c
+	<stdio.h>
+	"bfs.h"
+	"errors.h"
+	"p5test.h"
+
+1590079961 c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5-download\p5\p5test.h
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	"alias.h"
+	"fs.h"
+
+1590086963 source:c:\users\jim\skydrive\uw\css-430-hogg-sp20\projects\p5-download\p5\p5test.c
+	"p5test.h"
+
