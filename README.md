@@ -2,7 +2,7 @@
 
 Efficient Unix file system simulator in C.
 
-[Author: Bill Zhao](www.iambillzhao.com)
+[Author: Bill Zhao](https://www.iambillzhao.com/)
 
 ## Project Structure
 
